@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-11T17:03:23.831Z",
+  "timestamp": "2025-12-11T17:32:54.952Z",
   "site_info": {
-    "name": "영통구 GS건설 자이아파트 현장(예시)",
+    "name": "임세 현장 애인 택호",
     "width": 20,
     "height": 10,
     "depth": 10
@@ -15,54 +15,54 @@
   "inclinometers": [
     {
       "id": "INC-1",
-      "value": 0,
+      "value": 2,
       "unit": "degree"
     },
     {
       "id": "INC-2",
-      "value": 0,
+      "value": 2,
       "unit": "degree"
     },
     {
       "id": "INC-3",
-      "value": 0,
+      "value": 2,
       "unit": "degree"
     },
     {
       "id": "INC-4",
-      "value": 0,
+      "value": 2,
       "unit": "degree"
     }
   ],
   "strain_gauges": [
     {
       "id": "SG-1",
-      "value": 0,
+      "value": 940,
       "unit": "microstrain"
     },
     {
       "id": "SG-2",
-      "value": 0,
+      "value": 1030,
       "unit": "microstrain"
     },
     {
       "id": "SG-3",
-      "value": 0,
+      "value": 1090,
       "unit": "microstrain"
     },
     {
       "id": "SG-4",
-      "value": 0,
+      "value": 1010,
       "unit": "microstrain"
     },
     {
       "id": "SG-5",
-      "value": 0,
+      "value": 950,
       "unit": "microstrain"
     },
     {
       "id": "SG-6",
-      "value": 0,
+      "value": 1060,
       "unit": "microstrain"
     },
     {
