@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-11T15:12:32.549Z",
+  "timestamp": "2025-12-11T15:16:43.571Z",
   "site_info": {
-    "name": "OOÃªÂ±Â´Ã¬ÂÂ¤ Ã¬Â§ÂÃ­ÂÂÃªÂµÂ´Ã¬Â°Â©ÃªÂ³ÂµÃ¬ÂÂ¬",
+    "name": "OO건설 지하굴착공사",
     "width": 20,
     "height": 10,
     "depth": 10
@@ -20,7 +20,7 @@
     },
     {
       "id": "INC-2",
-      "value": 0,
+      "value": 0.08,
       "unit": "degree"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "id": "INC-4",
-      "value": 0,
+      "value": 0.15,
       "unit": "degree"
     }
   ],
@@ -62,7 +62,7 @@
     },
     {
       "id": "SG-6",
-      "value": 210,
+      "value": 550,
       "unit": "microstrain"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "id": "SG-9",
-      "value": 160,
+      "value": 700,
       "unit": "microstrain"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "id": "SG-12",
-      "value": 300,
+      "value": 1000,
       "unit": "microstrain"
     }
   ]
