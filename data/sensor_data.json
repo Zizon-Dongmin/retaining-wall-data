@@ -1,7 +1,7 @@
 {
   "timestamp": "2025-12-11T16:11:05.339Z",
   "site_info": {
-    "name": "OOÃªÂ±Â´Ã¬ÂÂ¤ Ã¬Â§ÂÃ­ÂÂÃªÂµÂ´Ã¬Â°Â©ÃªÂ³ÂµÃ¬ÂÂ¬",
+    "name": "OOÃÂªÃÂ±ÃÂ´ÃÂ¬ÃÂÃÂ¤ ÃÂ¬ÃÂ§ÃÂÃÂ­ÃÂÃÂÃÂªÃÂµÃÂ´ÃÂ¬ÃÂ°ÃÂ©ÃÂªÃÂ³ÃÂµÃÂ¬ÃÂÃÂ¬",
     "width": 20,
     "height": 10,
     "depth": 10
@@ -95,5 +95,104 @@
       "value": 1000,
       "unit": "microstrain"
     }
-  ]
+  ],
+  "ai_analysis": {
+    "timestamp": "2025-12-11T16:11:09.574Z",
+    "risk_score": 30,
+    "overall_status": "Safe",
+    "weather_impact": "없음",
+    "weather": {
+      "temp": -3,
+      "desc": "맑음",
+      "humidity": 63,
+      "wind": "4.1",
+      "rain": 0
+    },
+    "sensors": [
+      {
+        "id": "INC-1",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "INC-2",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "INC-3",
+        "status": "Warning",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "INC-4",
+        "status": "Danger",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-1",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-2",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-3",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-4",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-5",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-6",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-7",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-8",
+        "status": "Safe",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-9",
+        "status": "Warning",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-10",
+        "status": "Warning",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-11",
+        "status": "Warning",
+        "reason": "센서 데이터 기반"
+      },
+      {
+        "id": "SG-12",
+        "status": "Warning",
+        "reason": "센서 데이터 기반"
+      }
+    ],
+    "summary": "오류: The model is overloaded. Please try again later.",
+    "recommendations": [
+      "정기 점검 유지"
+    ]
+  }
 }
