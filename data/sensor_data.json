@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-11T15:10:49.243Z",
+  "timestamp": "2025-12-11T15:12:00.544Z",
   "site_info": {
-    "name": "수원 영통 GS자이 건설현장",
+    "name": "OO건설 지하굴착공사",
     "width": 20,
     "height": 10,
     "depth": 10
@@ -15,7 +15,7 @@
   "inclinometers": [
     {
       "id": "INC-1",
-      "value": 0,
+      "value": 0.05,
       "unit": "degree"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "id": "INC-3",
-      "value": 0.07,
+      "value": 0.11,
       "unit": "degree"
     },
     {
@@ -37,62 +37,62 @@
   "strain_gauges": [
     {
       "id": "SG-1",
-      "value": 0,
+      "value": 300,
       "unit": "microstrain"
     },
     {
       "id": "SG-2",
-      "value": 0,
+      "value": 350,
       "unit": "microstrain"
     },
     {
       "id": "SG-3",
-      "value": 0,
+      "value": 400,
       "unit": "microstrain"
     },
     {
       "id": "SG-4",
-      "value": 0,
+      "value": 450,
       "unit": "microstrain"
     },
     {
       "id": "SG-5",
-      "value": 0,
+      "value": 500,
       "unit": "microstrain"
     },
     {
       "id": "SG-6",
-      "value": 0,
+      "value": 210,
       "unit": "microstrain"
     },
     {
       "id": "SG-7",
-      "value": 0,
+      "value": 600,
       "unit": "microstrain"
     },
     {
       "id": "SG-8",
-      "value": 0,
+      "value": 650,
       "unit": "microstrain"
     },
     {
       "id": "SG-9",
-      "value": 50,
+      "value": 160,
       "unit": "microstrain"
     },
     {
       "id": "SG-10",
-      "value": 0,
+      "value": 800,
       "unit": "microstrain"
     },
     {
       "id": "SG-11",
-      "value": 0,
+      "value": 900,
       "unit": "microstrain"
     },
     {
       "id": "SG-12",
-      "value": 0,
+      "value": 300,
       "unit": "microstrain"
     }
   ]
