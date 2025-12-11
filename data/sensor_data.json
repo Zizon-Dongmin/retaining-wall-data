@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T15:25:39.783Z",
+  "timestamp": "2025-12-11T15:26:10.766Z",
   "site_info": {
     "name": "임세현 ㅂ신 현장애인 택호",
     "width": 20,
@@ -37,62 +37,62 @@
   "strain_gauges": [
     {
       "id": "SG-1",
-      "value": 300,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-2",
-      "value": 350,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-3",
-      "value": 400,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-4",
-      "value": 450,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-5",
-      "value": 500,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-6",
-      "value": 550,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-7",
-      "value": 600,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-8",
-      "value": 650,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-9",
-      "value": 700,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-10",
-      "value": 800,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-11",
-      "value": 900,
+      "value": 0,
       "unit": "microstrain"
     },
     {
       "id": "SG-12",
-      "value": 1000,
+      "value": 0,
       "unit": "microstrain"
     }
   ]
