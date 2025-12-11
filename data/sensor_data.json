@@ -13,7 +13,7 @@
     {"id": "INC-4", "value": 0.99, "unit": "degree"}
   ],
   "strain_gauges": [
-    {"id": "SG-1", "value": 300, "unit": "microstrain"},
+    {"id": "SG-1", "value": 9999, "unit": "microstrain"},
     {"id": "SG-2", "value": 350, "unit": "microstrain"},
     {"id": "SG-3", "value": 400, "unit": "microstrain"},
     {"id": "SG-4", "value": 450, "unit": "microstrain"},
