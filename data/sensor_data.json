@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T15:07:30.613Z",
+  "timestamp": "2025-12-11T15:07:38.614Z",
   "site_info": {
     "name": "수원 영통 GS자이 건설현장",
     "width": 20,
@@ -30,7 +30,7 @@
     },
     {
       "id": "INC-4",
-      "value": 0.06,
+      "value": 0,
       "unit": "degree"
     }
   ],
@@ -82,7 +82,7 @@
     },
     {
       "id": "SG-10",
-      "value": 1030,
+      "value": 0,
       "unit": "microstrain"
     },
     {
